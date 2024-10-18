@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.container {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.menu_ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.menu_img {
+    width: 100%;
+    height: 450px;
+    opacity: 0.4;
+}
+
+section {
+    width: 100%;
+    margin: 3rem auto;
+}
+
+.Forflaxbox {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.box {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+.box h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon1 {
+    margin-left: 0rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+    height: 30px;
+}
+
+.box2 {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+
+.box h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon2 {
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+}
+.box3 {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+.box2 h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon3 {
+    margin-left: 0rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+    height: 30px;
+}
+.box4 {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+.box3 h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon4 {
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+    height: 30px;
+}
+.box3 {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+.box2 h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon3 {
+    margin-left: 0rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+    height: 30px;
+}
+.box4 {
+    width: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    height: 250px;
+    text-align: center;
+}
+
+.box4 h2 {
+    width: 70px;
+    color: rgb(208, 93, 26);
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+    margin-top: 1rem;
+    margin-top: 1rem;
+    border-bottom: 1px solid #ff5100;
+}
+
+.icon4 {
+    margin-left: 0rem;
+    margin-top: 0.5rem;
+}
+
+.btn {
+    width: 170px;
+    border: 1px solid #ff5100;
+    background-color: #ff5100;
+    color: #fff;
+    margin-left: .7rem;
+    margin-top: 2rem;
+    height: 30px;
+}
+.btn:hover {
+    cursor: pointer;
+    border: 2px solid #ff5100;
+    color: #ff5100;
+    background-color: #fff;}
